@@ -20,7 +20,26 @@
 
 你甚至不用打字！甚至不用复制粘贴！
 
+## 应用截图
 
+| 应用截图 | 应用截图 |
+| :---: | :---: |
+| ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片1.png?raw=true) | ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片2.png?raw=true) |
+| ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片4.png?raw=true) | ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片5.png?raw=true) |
+| ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片7.png?raw=true) | ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片11.png?raw=true) |
+|  | ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片3.png?raw=true) |
+| ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片6.png?raw=true) | ![](https://github.com/triline3/timecat/blob/master/psFiles/作品照片9.png?raw=true) |
+
+## 交互设计
+
+
+
+| 交互设计 | 交互设计 |
+| :---: | :---: |
+| ![](https://github.com/triline3/timecat/blob/master/psFiles/交互设计1.gif?raw=true) | ![](https://github.com/triline3/timecat/blob/master/psFiles/交互设计3.gif?raw=true) |
+|  | ![](https://github.com/triline3/timecat/blob/master/psFiles/交互设计2.gif?raw=true) |
+
+## 
 
 ## 软件特色
 
@@ -50,4 +69,8 @@
 #### 5. 通知栏
 
 应内测群成员的需求优化了通知UI。通知可以显示今天任务数和使用手机时长。后者需要“查看应用使用情况”的权限，在侧滑栏 - 统计页面 - 工具栏快捷申请权限。权限管理正在完善。
+
+
+
+
 
